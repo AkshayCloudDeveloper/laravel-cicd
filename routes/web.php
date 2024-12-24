@@ -26,4 +26,4 @@ Route::middleware('auth')->group(function () {
 
 require __DIR__.'/auth.php';
 
-// full statck web app
+// full statck web app new
